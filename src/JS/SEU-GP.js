@@ -7,7 +7,14 @@ function SEU_GP(){
             <main className="conteudo">
                 <h1>COLOQUE SEU CONTEÚDO AQUI E NÃO ALTERE A NAVBAR NEM O FOOTER!!!</h1>
             </main>
+
+       
+        <video width="600" height="400" controls>
+            <source src="caminho/do/video.mp4" type="video/mp4"></source>
+        </video>
         </div>
+
+
     )
 }
 

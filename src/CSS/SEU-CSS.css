@@ -1,4 +1,4 @@
-/* Façam o css de vcs nessa área, ela pode ser expandiada.*/
+/* Façam o css de vcs nessa área, ela pode ser expandida.*/
 
 body{
     font-family: Arial, sans-serif;
@@ -9,6 +9,7 @@ body{
 
 .conteudo h1{
     color: red;
+    padding: 45px;
 }
 
 

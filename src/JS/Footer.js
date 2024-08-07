@@ -4,6 +4,7 @@ import { FaFacebookF, FaTwitter, FaInstagram } from 'react-icons/fa';
 function Footera(){
     return(
         <footer className="footer">
+          
         <div className="footer-content">
           <div className="footer-about">
             <h3 className="footer-title">Sobre o Verde</h3> 
@@ -20,6 +21,8 @@ function Footera(){
             </div>
           </div>
         </div>
+
+
         <p className="footer-copy">&copy; 2024 Verde. Todos os direitos reservados.</p>
       </footer>
     )
